@@ -1,0 +1,6 @@
+CRYPTO,BALANCE,PRICE
+bitcoin,2.3,24560.23
+ethereum,3.4,1370
+qanplatform,56400,0.015
+zelcash,345,0.33
+binancecoin,6.32,430
